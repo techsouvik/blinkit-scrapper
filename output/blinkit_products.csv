@@ -1,0 +1,11 @@
+date,l1_category,l1_category_id,l2_category,l2_category_id,store_id,variant_id,variant_name,group_id,selling_price,mrp,in_stock,inventory,is_sponsored,image_url,brand_id,brand
+2023-11-16,Munchies,1237,Bhujia & Mixtures,1178,store_789,prod_6506df2f6d251,Haldiram's Bhujia Sev,,45.00,50.00,true,,false,https://cdn.grofers.com/pimages/12345.png,,Haldiram's
+2023-11-16,Munchies,1237,Bhujia & Mixtures,1178,store_789,prod_6506df2f6d252,Bikaji Ratlami Sev,,55.00,60.00,true,,true,https://cdn.grofers.com/pimages/12346.png,,Bikaji
+2023-11-16,Munchies,1237,Bhujia & Mixtures,1178,store_789,prod_6506df2f6d253,Peppy Tomato Chips,,20.00,25.00,false,,false,https://cdn.grofers.com/pimages/12347.png,,Peppy
+2023-11-16,Munchies,1237,Munchies Gift Packs,1694,store_456,prod_6506df2f6d254,Festive Snack Hamper,,299.00,399.00,true,,false,https://cdn.grofers.com/pimages/12348.png,,Haldiram's
+2023-11-16,Munchies,1237,Munchies Gift Packs,1694,store_456,prod_6506df2f6d255,Premium Diwali Box,,499.00,599.00,true,,true,https://cdn.grofers.com/pimages/12349.png,,Bikaji
+2023-11-16,Munchies,1237,Namkeen Snacks,29,store_123,prod_6506df2f6d256,Aloo Bhujia,,30.00,35.00,true,,false,https://cdn.grofers.com/pimages/12350.png,,Haldiram's
+2023-11-16,Munchies,1237,Namkeen Snacks,29,store_123,prod_6506df2f6d257,Moong Dal,,40.00,45.00,false,,false,https://cdn.grofers.com/pimages/12351.png,,Bikaji
+2023-11-16,Munchies,1237,Papad & Fryums,80,store_321,prod_6506df2f6d258,Moong Papad,,25.00,30.00,true,,false,https://cdn.grofers.com/pimages/12352.png,,Haldiram's
+2023-11-16,Munchies,1237,Papad & Fryums,80,store_321,prod_6506df2f6d259,Aloo Bhujia,,35.00,40.00,true,,false,https://cdn.grofers.com/pimages/12353.png,,Bikaji
+2023-11-16,Munchies,1237,Chips & Crisps,940,store_654,prod_6506df2f6d260,Lays Classic,,20.00,25.00,true,,true,https://cdn.grofers.com/pimages/12354.png,,Lays

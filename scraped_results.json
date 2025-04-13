@@ -1,0 +1,1682 @@
+[
+  {
+    "location": {
+      "lat": 28.678051,
+      "lng": 77.314262
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.678051,
+      "lng": 77.314262
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.678051,
+      "lng": 77.314262
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.678051,
+      "lng": 77.314262
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.678051,
+      "lng": 77.314262
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.678051,
+      "lng": 77.314262
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.5045,
+      "lng": 77.012
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.5045,
+      "lng": 77.012
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.5045,
+      "lng": 77.012
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.5045,
+      "lng": 77.012
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.5045,
+      "lng": 77.012
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.5045,
+      "lng": 77.012
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 22.59643333,
+      "lng": 88.39996667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 22.59643333,
+      "lng": 88.39996667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 22.59643333,
+      "lng": 88.39996667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 22.59643333,
+      "lng": 88.39996667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 22.59643333,
+      "lng": 88.39996667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 22.59643333,
+      "lng": 88.39996667
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 23.1090018,
+      "lng": 72.57299832
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 23.1090018,
+      "lng": 72.57299832
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 23.1090018,
+      "lng": 72.57299832
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 23.1090018,
+      "lng": 72.57299832
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 23.1090018,
+      "lng": 72.57299832
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 23.1090018,
+      "lng": 72.57299832
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.95833333,
+      "lng": 72.83333333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.95833333,
+      "lng": 72.83333333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.95833333,
+      "lng": 72.83333333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.95833333,
+      "lng": 72.83333333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.95833333,
+      "lng": 72.83333333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.95833333,
+      "lng": 72.83333333
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7045,
+      "lng": 77.15366667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7045,
+      "lng": 77.15366667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7045,
+      "lng": 77.15366667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7045,
+      "lng": 77.15366667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7045,
+      "lng": 77.15366667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7045,
+      "lng": 77.15366667
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.88326667,
+      "lng": 77.5594
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.88326667,
+      "lng": 77.5594
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.88326667,
+      "lng": 77.5594
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.88326667,
+      "lng": 77.5594
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.88326667,
+      "lng": 77.5594
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.88326667,
+      "lng": 77.5594
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7295,
+      "lng": 77.12866667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7295,
+      "lng": 77.12866667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7295,
+      "lng": 77.12866667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7295,
+      "lng": 77.12866667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7295,
+      "lng": 77.12866667
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.7295,
+      "lng": 77.12866667
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.67571622,
+      "lng": 77.36149677
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.67571622,
+      "lng": 77.36149677
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.67571622,
+      "lng": 77.36149677
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.67571622,
+      "lng": 77.36149677
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.67571622,
+      "lng": 77.36149677
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.67571622,
+      "lng": 77.36149677
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.3501,
+      "lng": 77.31673333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.3501,
+      "lng": 77.31673333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.3501,
+      "lng": 77.31673333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.3501,
+      "lng": 77.31673333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.3501,
+      "lng": 77.31673333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.3501,
+      "lng": 77.31673333
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.59086667,
+      "lng": 77.3054
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.59086667,
+      "lng": 77.3054
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.59086667,
+      "lng": 77.3054
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.59086667,
+      "lng": 77.3054
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.59086667,
+      "lng": 77.3054
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.59086667,
+      "lng": 77.3054
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.49553604,
+      "lng": 77.51297417
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.49553604,
+      "lng": 77.51297417
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.49553604,
+      "lng": 77.51297417
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.49553604,
+      "lng": 77.51297417
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.49553604,
+      "lng": 77.51297417
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.49553604,
+      "lng": 77.51297417
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.44176667,
+      "lng": 77.3084
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.44176667,
+      "lng": 77.3084
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.44176667,
+      "lng": 77.3084
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.44176667,
+      "lng": 77.3084
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.44176667,
+      "lng": 77.3084
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.44176667,
+      "lng": 77.3084
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.48783333,
+      "lng": 77.09533333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.48783333,
+      "lng": 77.09533333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.48783333,
+      "lng": 77.09533333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.48783333,
+      "lng": 77.09533333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.48783333,
+      "lng": 77.09533333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.48783333,
+      "lng": 77.09533333
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.93326667,
+      "lng": 77.61773333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.93326667,
+      "lng": 77.61773333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.93326667,
+      "lng": 77.61773333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.93326667,
+      "lng": 77.61773333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.93326667,
+      "lng": 77.61773333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 12.93326667,
+      "lng": 77.61773333
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 13.00826667,
+      "lng": 77.64273333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 13.00826667,
+      "lng": 77.64273333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 13.00826667,
+      "lng": 77.64273333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 13.00826667,
+      "lng": 77.64273333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 13.00826667,
+      "lng": 77.64273333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 13.00826667,
+      "lng": 77.64273333
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.4751,
+      "lng": 77.4334
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.4751,
+      "lng": 77.4334
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.4751,
+      "lng": 77.4334
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.4751,
+      "lng": 77.4334
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.4751,
+      "lng": 77.4334
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 28.4751,
+      "lng": 77.4334
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.85653333,
+      "lng": 75.71283333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.85653333,
+      "lng": 75.71283333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.85653333,
+      "lng": 75.71283333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.85653333,
+      "lng": 75.71283333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.85653333,
+      "lng": 75.71283333
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.85653333,
+      "lng": 75.71283333
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.8982,
+      "lng": 75.8295
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.8982,
+      "lng": 75.8295
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.8982,
+      "lng": 75.8295
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.8982,
+      "lng": 75.8295
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.8982,
+      "lng": 75.8295
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 26.8982,
+      "lng": 75.8295
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.54316667,
+      "lng": 73.914
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Bhujia & Mixtures",
+      "L2_category_id": "1178"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.54316667,
+      "lng": 73.914
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Munchies Gift Packs",
+      "L2_category_id": "1694"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.54316667,
+      "lng": 73.914
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Namkeen Snacks",
+      "L2_category_id": "29"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.54316667,
+      "lng": 73.914
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Papad & Fryums",
+      "L2_category_id": "80"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.54316667,
+      "lng": 73.914
+    },
+    "category": {
+      "L1_category": "Munchies",
+      "L1_category_id": "1237",
+      "L2_category": "Chips & Crisps",
+      "L2_category_id": "940"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  },
+  {
+    "location": {
+      "lat": 18.54316667,
+      "lng": 73.914
+    },
+    "category": {
+      "L1_category": "Sweet Tooth",
+      "L1_category_id": "9",
+      "L2_category": "Indian Sweets",
+      "L2_category_id": "943"
+    },
+    "data": null,
+    "error": "HTTP 403"
+  }
+]
