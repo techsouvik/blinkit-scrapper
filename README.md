@@ -8,20 +8,20 @@ This script (`scrape-blinkit.ts`) scrapes product data from BlinkIt subcategory 
 - Fetches data from the BlinkIt API for each combination.
 - Handles errors and logs results.
 - Outputs all results to `scraped_results.json`.
+- **NEW**: Supports both Bun and Yarn package managers!
 
 ## Requirements
 
+Choose one of the following setups:
+
+### Option 1: Bun (Recommended)
 - [Bun](https://bun.sh/) (for running TypeScript/Node.js scripts)
 - Node.js-compatible environment (Bun supports most Node.js APIs)
 
-## Input Files
-
-Place these files in the same directory as the script:
-
-### 1. `blinkit_locations.csv`
-
-CSV with columns:
-```
+### Option 2: Yarn + Node.js
+- [Node.js](https://nodejs.org/) (version 18 or higher)
+- [Yarn](https://yarnpkg.com/) package manager
+- [tsx](https://github.com/esbuild-kit/tsx) for TypeScript execution
 latitude,longitude
 28.678051,77.314262
 ...
